@@ -1,0 +1,18 @@
+TO-DO LIST
+
+What we want in our website?
+1. A Main home page - with all todo lists, be it from some project or from no project
+2. A today section, with to do lists that need to be done today
+3. A Week section, with to do lists that need to be done in the Week
+4. A projects section, with multiple projects, and each project having their specific to do lists
+5. Finally a notes section
+
+Pallete
+1. 000000
+2. 9929EA
+3. FF5FCF
+4. FAEB92
+
+
+Main
+1. 
